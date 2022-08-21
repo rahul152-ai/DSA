@@ -45,7 +45,7 @@ int main()
     vector<int> array={
         12,9,8,7,5,3,2,1
     };
-    int target=1;
+    int target=3;
     cout<<orderagnostic(array,target);
     return 0;
 }

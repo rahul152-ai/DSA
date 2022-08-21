@@ -1,3 +1,7 @@
+//time complexity of selection sort is 'O(n square)'
+//in the slection sort in frist pass slect greates element from the array put it at the last position;
+//in second pass slect the second largest element from the array and put it at the second last positon
+//and this process continue till the array not sorted;
 #include<iostream>
 #include<vector>
 using namespace std;
